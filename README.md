@@ -1,4 +1,4 @@
-# 2303A52037_GenAI
+# GenAI_2303A52037
 # Batch - 31
 # Mahesh Chitikeshi
 
