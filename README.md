@@ -1,6 +1,6 @@
 # **GenAI_2303A52037**  
-**Batch**: 31
-**Student**: Mahesh Chitikeshi
+**Batch**: 31                
+**Student**: Mahesh Chitikeshi         
 **Program:** B.Tech, 2nd Year, 2nd Semester
 
 ---
