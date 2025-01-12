@@ -8,7 +8,7 @@
 ## **Generative AI Lab Instruction Sheets**  
 Below is the list of labs, each with a corresponding instruction sheet. Completed labs are linked for easy access, and upcoming labs will be updated weekly:
 
-- **[Lab 01]()**: Evaluation Metrics with and without Using Libraries  
+- **[Lab 01](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-1.pdf)**: Evaluation Metrics with and without Using Libraries  
 - **[Lab 02](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-2.pdf)**: Linear Optimization  
 - **[Lab 03](#)**: To be completed  
 - **[Lab 04](#)**: To be completed  
@@ -24,7 +24,7 @@ Below is the list of labs, each with a corresponding instruction sheet. Complete
 ## **Generative AI Lab Jupyter Notebooks**  
 Access Jupyter Notebooks for detailed exploration of Generative AI concepts, tools, and libraries with practical applications.
 
-1. **[Lab 01: Evaluation Metrics with and without Using Libraries]()**  
+1. **[Lab 01: Evaluation Metrics with and without Using Libraries](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/2303A52037_GenAI_A1.ipynb)**  
    - Understanding and implementing evaluation metrics for model performance. This lab explores common evaluation metrics (such as accuracy, precision, recall, F1 score) using built-in Python functions as well as libraries like `sklearn`.
 
 2. **[Lab 02: Linear Optimization for Generative AI](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/2303A52037_GenAI_A2.ipynb)**  
