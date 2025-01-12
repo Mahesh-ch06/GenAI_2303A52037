@@ -1,11 +1,12 @@
 # **GenAI_2303A52037**  
 **Batch**: 31  
-**Student**: Mahesh Chitikeshi  
+**Student**: Mahesh Chitikeshi 
+**Program:** B.Tech, 2nd Year, 2nd Semester
 
 ---
 
 ## **Generative AI Lab Instruction Sheets**  
-Explore the foundational concepts and practical applications of Python libraries, specifically related to Generative AI.
+Below is the list of labs, each with a corresponding instruction sheet. Completed labs are linked for easy access, and upcoming labs will be updated weekly:
 
 - **[Lab 01]()**: Evaluation Metrics with and without Using Libraries  
 - **[Lab 02](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-2.pdf)**: Linear Optimization  
