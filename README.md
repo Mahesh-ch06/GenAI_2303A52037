@@ -8,7 +8,7 @@
 Explore the foundational concepts and practical applications of Python libraries, specifically related to Generative AI.
 
 - **[Lab 01]()**: Evaluation Metrics with and without Using Libraries  
-- **[Lab 02](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-2.pdf)**: To be completed  
+- **[Lab 02](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-2.pdf)**: Linear Optimization  
 - **[Lab 03](#)**: To be completed  
 - **[Lab 04](#)**: To be completed  
 - **[Lab 05](#)**: To be completed  
@@ -26,8 +26,14 @@ Access Jupyter Notebooks for detailed exploration of Generative AI concepts, too
 1. **[Lab 01: Evaluation Metrics with and without Using Libraries]()**  
    - Understanding and implementing evaluation metrics for model performance. This lab explores common evaluation metrics (such as accuracy, precision, recall, F1 score) using built-in Python functions as well as libraries like `sklearn`.
 
-2. **[Lab 02: Numpy Fundamentals for Generative AI](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/2303A52037_GenAI_A2.ipynb)**  
-   - Introduction to Numpy, its array structure, and key functions, laying the foundation for working with AI models.
+2. **[Lab 02: Linear Optimization for Generative AI](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/2303A52037_GenAI_A2.ipynb)**  
+   - Introduction to linear optimization techniques using Python libraries. The lab focuses on solving optimization problems with the following libraries:
+     ```python
+     from scipy.optimize import linprog
+     import numpy as np
+     import math as mt
+     ```
+   - Practical applications include resource allocation and cost minimization in Generative AI models.
 
 3. **[Lab 03: Numpy Operations in AI Workflows](#)**  
    - Applying Numpy functions for array manipulation and mathematical operations, essential for data preprocessing in Generative AI.
@@ -64,4 +70,5 @@ Access Jupyter Notebooks for detailed exploration of Generative AI concepts, too
 
 ---
 
-Feel free to explore **Lab 01** through the provided link. Other labs will be completed and updated soon. Happy learning!
+Feel free to explore **Lab 01** and **Lab 02** through the provided link. Other labs will be completed and updated soon. Happy learning!
+
