@@ -10,7 +10,7 @@ Below is the list of labs, each with a corresponding instruction sheet. Complete
 
 - **[Lab 01](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-1.pdf)**: Evaluation Metrics with and without Using Libraries  
 - **[Lab 02](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignment-2.pdf)**: Linear Optimization  
-- **[Lab 03](#)**: To be completed  
+- **[Lab 03](https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/GenAI-Assignmnet-3.pdf)**: To be completed  
 - **[Lab 04](#)**: To be completed  
 - **[Lab 05](#)**: To be completed  
 - **[Lab 06](#)**: To be completed  
